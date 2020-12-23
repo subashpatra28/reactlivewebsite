@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.0193ba24.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.6867a734.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.6867a734.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.c34bc418.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.c34bc418.js.map",
+    "static/css/2.155f6fba.chunk.css": "/reactlivewebsite/static/css/2.155f6fba.chunk.css",
+    "static/js/2.3e47e6f8.chunk.js": "/reactlivewebsite/static/js/2.3e47e6f8.chunk.js",
+    "static/js/2.3e47e6f8.chunk.js.map": "/reactlivewebsite/static/js/2.3e47e6f8.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.155f6fba.chunk.css.map": "/reactlivewebsite/static/css/2.155f6fba.chunk.css.map",
+    "static/css/main.0193ba24.chunk.css.map": "/reactlivewebsite/static/css/main.0193ba24.chunk.css.map",
+    "static/js/2.3e47e6f8.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.3e47e6f8.chunk.js.LICENSE.txt",
+    "static/media/America.d74dc747.svg": "/reactlivewebsite/static/media/America.d74dc747.svg",
+    "static/media/Bhakti_wallpaper.a8886285.jpg": "/reactlivewebsite/static/media/Bhakti_wallpaper.a8886285.jpg",
+    "static/media/Bollywood_Wallpaper.8482ac21.jpg": "/reactlivewebsite/static/media/Bollywood_Wallpaper.8482ac21.jpg",
+    "static/media/cricket_wallpaper.a20c4514.jpg": "/reactlivewebsite/static/media/cricket_wallpaper.a20c4514.jpg",
+    "static/media/game_wallpaper.eae73693.jpg": "/reactlivewebsite/static/media/game_wallpaper.eae73693.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34bc418.js",
+    "static/css/2.155f6fba.chunk.css",
+    "static/js/2.3e47e6f8.chunk.js",
+    "static/css/main.0193ba24.chunk.css",
+    "static/js/main.6867a734.chunk.js"
+  ]
+}
